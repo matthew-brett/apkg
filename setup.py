@@ -20,7 +20,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Topic :: Software Development',
               ]
 
-distname = 'scikits.timeseries'
+distname = 'apkg'
 
 long_description = """
 The scikits.timeseries module provides classes and functions for manipulating,
